@@ -1,0 +1,30 @@
+
+APPLY TO BOTH MODELS (AI21 GPT3)
+The dataset name should be exactly similar to SAS Code in all conversions.
+
+PROS of AI21
+1. Token issue in gpt3. ai21 has more flexibility.
+2. Temperature not an issue in AI21
+3. AI21 stopping sequence helps us in getting cleaner code compared to frequency penalty feature of GPT3
+4. AI21 api parameters are short and concise. 
+5. AI21 - Good customer support.
+6. Jurassic-1 model of AI21 is bigger than GPT3 interms of parameters (3 billion more)
+7. AI21 - Does not have a waiting list to access the model wherein GPT3 has a waiting list to access it.
+8. AI21 Labs offers custom model solutions as a service.
+
+CONS OF AI21
+1. The dataset name should be exactly similar to SAS Code in all conversions.
+
+PROS OF GPT3:
+1. Better understandability rate than AI21 (set and sort - few cases)
+
+
+#comments for cohere
+1. performance is sub par compared to ai21 and gpt3 (gpt-j is exception as it's still in prelim status)
+(the model as per website focused mostly on general language rather than coding languages)
+the final conclusion can be reached after  tuning language model and doing comparative analysis
+2. website interface is not handy and sloppy at sometimes.
+3.Api calls  subscription is expensive than most of the language models.
+4. cohere is collabrated with Google cloud and expected to launch their services on GCP platform and could 
+be handy for clients looking on on prem language models / solutions.
+
